@@ -25,7 +25,7 @@ The following describes the license of the Linux kernel source code
 (GPLv2), how to properly mark the license of individual files in the source
 tree, as well as links to the full license text.
 
-* :ref:`kernel_licensing`
+* :ref:`../kernel_licensing`
 
 User-oriented documentation
 ---------------------------
